@@ -1,1 +1,1 @@
-# Beecrowd
+# Códigos dos exercícios do [Beecrowd](https://judge.beecrowd.com/pt)
